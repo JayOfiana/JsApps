@@ -1,7 +1,7 @@
 // program for a simple calculator
 
 // take the operator input
-const operator = prompt('Enter operator ( either +, -, * or / ): ');
+const operator = prompt('Choose operator ( either +, -, * or / ): ');
 
 // take the operand input
 const number1 = parseFloat(prompt('Enter first number: '));
